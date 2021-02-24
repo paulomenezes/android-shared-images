@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Armazenamento Compartilhado</string>
+    <string name="permission_denied">Permissão negada</string>
+    <string name="remove">Remover Imagem</string>
+</resources>
